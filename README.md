@@ -22,7 +22,7 @@ Download the release apk and install on your android device.
 ### Screenshots
 
 ![Screenshot 1](docs/screenshots/Screenshot_20230511_135347.png)
-![Screenshot 2](docs/screenshots/Screenshot_20230511_135500.png)
+![Screenshot 2](docs/screenshots/Screenshot_20230511_140044.png)
 ![Screenshot 3](docs/screenshots/Screenshot_20230511_135801.png)
 
 See the [docs](docs) folder for more screenshots.
