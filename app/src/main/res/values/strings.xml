@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task Planner</string>
+    <string name="create_a_list">Create a list</string>
+    <string name="new_list">New list</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="add_a_todo">Add a todo</string>
+    <string name="new_todo">New todo</string>
+    <string name="completed" translatable="false">Completed</string>
+    <string name="rename_task" translatable="false">Rename task</string>
+    <string name="add_subtask" translatable="false">Add subtask</string>
+</resources>
